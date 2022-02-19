@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
           <p>Making some changes</p>
           <p>testing towntime during actions</p>
+          <p>testing towntime during actions for the time in the className</p>
         </p>
         <a
           className="App-link"

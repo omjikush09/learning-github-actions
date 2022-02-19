@@ -9,9 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
           <p>Making some changes</p>
-          <p>Making some changes more changes</p>
-          <p>Making some changes more changes</p>
-          <p>Testing down time</p>
+          <p>testing towntime during actions</p>
         </p>
         <a
           className="App-link"
